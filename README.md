@@ -70,6 +70,6 @@ Hurray! we're just one step away from completion. Add the logic of `totalScore()
 
 ## Expected Output
 
-![Superwars]()
+![Superwars](https://i1.faceprep.in/ProGrad/ts-superwars-complete.jpg)
 
 Happy Coding ProGrad ❤️
